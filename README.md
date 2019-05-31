@@ -11,7 +11,7 @@ The method adopted in this paper (and code) aims to move beyond a simple descrip
 
 ## Dependencies
 * It is necessary to have an IDI project if you wish to run the code. Visit the Stats NZ website for more information about this.
-* While we have attempted to capture all the code dependencies in this project, several other SIA repositories may be required to successfully run this project, these repositories are:
+* While we have attempted to capture all the code dependencies in this project, several other SIA repositories are required to successfully run this project, these repositories are:
 	* `social_investment_analytical_layer (SIAL)` 
 	* `social_investment_data_foundation (SIDF)` 
 	* `SIAtoolbox`
