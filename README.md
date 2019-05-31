@@ -18,13 +18,17 @@ The method adopted in this paper (and code) aims to move beyond a simple descrip
 Instructions for the installation of each repository can be found in their respective readme files.
 
 ## Folder descriptions
-This folder contains all the code necessary to build the study population and GSS attributes.
 
 **documentation:** This folder contains key documentation, including code flow diagram, and notes on combining the first 5 waves of the GSS.
+
 **include:** This folder contains generic formatting scripts.
+
 **sasautos:** This folder contains supporting SAS macros.
+
 **sasprogs:** This folder contains SAS programs.
+
 **rprogs:** This folder contains all the necessary R scripts that are required to perform the analysis on the dataset created by the SAS code.
+
 **sql:** This folder contains several key sql scripts.
 
 ## Running the benefit transitions and wellbeing project
