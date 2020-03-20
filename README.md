@@ -3,7 +3,7 @@
 An analysis on the effect of transitions from benefit to employment on overall well-being of individuals using a combination of GSS Survey and IDI Administrative data.
 
 ## Overview
-This analysis presents the second application of the Social Investment Agency's (SIA's) wellbeing measurement approach to a policy issue. Our first application was social housing tenancy.
+This analysis presents the second application of the Social Investment Agency's (now the Social Wellbeing Agency) wellbeing measurement approach to a policy issue. Our first application was social housing tenancy.
 
 The analysis uses the New Zealand General Social Survey data in the IDI, combined with administrative data to look at how the transition from benefit to employment impacts the wellbeing of people.
 
@@ -11,7 +11,7 @@ The method adopted in this paper (and code) aims to move beyond a simple descrip
 
 ## Dependencies
 * It is necessary to have an IDI project if you wish to run the code. Visit the Stats NZ website for more information about this.
-* While we have attempted to capture all the code dependencies in this project, several other SIA repositories are required to successfully run this project, these repositories are:
+* While we have attempted to capture all the code dependencies in this project, several other Agency repositories are required to successfully run this project, these repositories are:
 	* `social_investment_analytical_layer (SIAL)` 
 	* `social_investment_data_foundation (SIDF)` 
 	* `SIAtoolbox`
@@ -38,5 +38,5 @@ The process for running the project is outlined in the document code_flowchart.d
 Please note, that the SAS environment has been upgraded to SAS GRID since this code was first written. Hence parts of the code may require updating to match the new environment.
 
 ## Getting Help
-If you have any questions email info@sia.govt.nz
+If you have any questions email info@swa.govt.nz
 
