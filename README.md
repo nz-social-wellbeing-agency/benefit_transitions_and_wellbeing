@@ -15,6 +15,7 @@ The method adopted in this paper (and code) aims to move beyond a simple descrip
 	* `social_investment_analytical_layer (SIAL)` 
 	* `social_investment_data_foundation (SIDF)` 
 	* `SIAtoolbox`
+
 If the repositories are not available on our GitHub page, they may be archived on our previous GitHub page https://github.com/nz-social-investment-agency. Instructions for the installation of each repository can be found in their respective readme files.
 
 ## Folder descriptions
