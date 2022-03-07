@@ -1,4 +1,4 @@
-# benefit_transitions_and_wellbeing
+# Benefit Transitions and Wellbeing
 
 An analysis on the effect of transitions from benefit to employment on overall well-being of individuals using a combination of GSS Survey and IDI Administrative data.
 
@@ -37,6 +37,10 @@ If the repositories are not available on our GitHub page, they may be archived o
 The process for running the project is outlined in the document code_flowchart.docx contained in the documentation folder. This shows the key scripts that need to be run, along with the key tables that are produced along the way.
 
 Please note, that the SAS environment has been upgraded to SAS GRID since this code was first written. Hence parts of the code may require updating to match the new environment.
+
+## Citation
+
+Social Wellbeing Agency (2019). Benefit transitions and wellbeing. Source code. https://github.com/nz-social-wellbeing-agency/benefit_transitions_and_wellbeing
 
 ## Getting Help
 If you have any questions email info@swa.govt.nz
